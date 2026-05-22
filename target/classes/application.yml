@@ -42,3 +42,4 @@ app:
 logging:
   level:
     com.bank: DEBUG
+    
